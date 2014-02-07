@@ -9,17 +9,17 @@ Publication of Key Attributes,,
 ,,
 Attribute,Period or % of activity,Implementation Schedule Commitment
 ,,
-Timeliness of Transaction Data*,Monthly,Real Time
+Timeliness of Transaction Data,Monthly,Real Time
 ,,
 Frequency of Updates,,Real Time
 ,,
-Transaction Alignment with recipient financial year*,Monthly,Not present in Implementation Schedule
+Transaction Alignment with recipient financial year,Monthly,Not present in Implementation Schedule
 ,,
-Budget Alignment with recipient financial year*,Annual,Not present in Implementation Schedule
+Budget Alignment with recipient financial year,Annual,Not present in Implementation Schedule
 ,,
 Unique Identifer,100,Fully Compliant Oct 12
 ,,
-Use of Recipient Language*,0,Fully Compliant Oct 12
+Use of Recipient Language,0,Fully Compliant Oct 12
 ,,
 Start Date,100,Partially Compliant Compliant Oct 12
 ,,
@@ -31,13 +31,13 @@ Geography,0,Unable To Publish
 ,,
 CRS Sector,100,Fully Compliant Oct 12
 ,,
-Commitments*,37.85,Fully Compliant Oct 12
+Commitments,37.85,Fully Compliant Oct 12
 ,,
-Disbursements & Expenditure*,25.51,Fully Compliant Oct 12
+Disbursements & Expenditure,25.51,Fully Compliant Oct 12
 ,,
-Traceable Income & Disbursements*,100,Not present in Implementation Schedule
+Traceable Income & Disbursements,100,Not present in Implementation Schedule
 ,,
-Activity Documents*,0,Unable To Publish
+Activity Documents,0,Unable To Publish
 ,,
 Text of Conditions,0,Unable To Publish
 ,,
