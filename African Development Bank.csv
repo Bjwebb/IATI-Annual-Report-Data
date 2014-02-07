@@ -13,9 +13,9 @@ Timeliness of Transaction Data,Beyond one year,Quarterly,
 ,,,
 Frequency of Updates,Quarterly,Quarterly,
 ,,,
-Transaction Alignment with recipient financial year*,Monthly,Not present in IP,"We are reporting commitments using all months. Dibursements, loan repayments and interest repayments are aggregated by quarter ."
+Transaction Alignment with recipient financial year*,Monthly,Not present in Implementation Schedule,"We are reporting commitments using all months. Dibursements, loan repayments and interest repayments are aggregated by quarter ."
 ,,,
-Budget Alignment with recipient financial year*,not known,Not present in IP,Not relevant
+Budget Alignment with recipient financial year*,not known,Not present in Implementation Schedule,Not relevant
 ,,,
 Unique Identifer,44.06,Fully Compliant June 2013,
 ,,,
@@ -35,7 +35,7 @@ Commitments,44.06,Fully Compliant June 2013,
 ,,,
 Disbursements & Expenditure,19.93,Fully Compliant June 2013,
 ,,,
-Traceable Income & Disbursements,0,Not present in IP,"Provider org and receiver org could be reported for commitments. Regarding disbursements only the provider. For IR and LR, receiver org only. (Disclosure issues)"
+Traceable Income & Disbursements,0,Not present in Implementation Schedule,"Provider org and receiver org could be reported for commitments. Regarding disbursements only the provider. For IR and LR, receiver org only. (Disclosure issues)"
 ,,,
 Activity Documents,100,Future Publication December 2014,Activity website is available only as for now
 ,,,

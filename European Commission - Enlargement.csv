@@ -13,9 +13,9 @@ Timeliness of Transaction Data*,Monthly,One month
 ,,
 Frequency of Updates,,Monthly
 ,,
-Transaction Alignment with recipient financial year*,Monthly,Not present in IP
+Transaction Alignment with recipient financial year*,Monthly,Not present in Implementation Schedule
 ,,
-Budget Alignment with recipient financial year*,not known,Not present in IP
+Budget Alignment with recipient financial year*,not known,Not present in Implementation Schedule
 ,,
 Unique Identifer,100,Fully compliant
 ,,
@@ -35,23 +35,10 @@ Commitments*,100,Fully compliant
 ,,
 Disbursements & Expenditure*,64.6,Partially compliant
 ,,
-Traceable Income & Disbursements*,0,Not present in IP
+Traceable Income & Disbursements*,0,Not present in Implementation Schedule
 ,,
 Activity Documents*,0,Future Publication Dec 2013
 ,,
 Text of Conditions,0,Not publishing now
 ,,
 Results,0,Not publishing now
-,,
-,,
-'Published Data Cross Checked Against Common Standard Implementation Schedule,,
-Organisation File,,According to Imp plan will be reporting all elements by Sep 13 but currently only doc info published
-Activity File,,Imp plan needs updating as most items for Sep 13 are present but stil amber in plan.
-,,Default Tied Aid status is missing  from file yet is marked Future Publication Sept 13
-,,Unique Identifier - Imp.Plan still say Future Publication Sept 2013. Needs updating
-,,Start date - Imp.Plan still say Future Publication Sept 2013. Needs updating
-,,End Date - Imp.Plan still say Future Publication Sept 2013. Needs updating
-,,Implementing Organisation - Imp.Plan still say Future Publication Sept 2013. Needs updating
-,,CRS Sector - Imp.Plan still say Future Publication Sept 2013. Needs updating
-,,Commitements - Imp.Plan still say Future Publication Sept 2013. Needs updating
-,,Disbursements & Expenditure - Imp.Plan still say Future Publication Sept 2013. Needs updating

@@ -13,9 +13,9 @@ Timeliness of Transaction Data*,Six-monthly,Quarterly
 ,,
 Frequency of Updates,,Quarterly
 ,,
-Transaction Alignment with recipient financial year*,Quaterly,Not present in IP
+Transaction Alignment with recipient financial year*,Quaterly,Not present in Implementation Schedule
 ,,
-Budget Alignment with recipient financial year*,>370,Not present in IP
+Budget Alignment with recipient financial year*,>370,Not present in Implementation Schedule
 ,,
 Unique Identifer,100,Fully compliant July 2012
 ,,
@@ -35,7 +35,7 @@ Commitments*,75,Fully compliant July 2012
 ,,
 Disbursements & Expenditure*,100,Fully compliant July 2012
 ,,
-Traceable Income & Disbursements*,100,Not present in IP
+Traceable Income & Disbursements*,100,Not present in Implementation Schedule
 ,,
 Activity Documents*,50,Partially Compliant Mar 13
 ,,
@@ -43,10 +43,3 @@ Text of Conditions,0,Unable To Publish
 ,,
 Results,0,
 ,,Unable To Publish
-,,
-,,
-,,
-'Published Data Cross Checked Against Common Standard Implementation Schedule,,
-Organisation File,,None found
-,,
-Activity File,,Implementing Organisation - Present in files but IP not updated. still showing as future
