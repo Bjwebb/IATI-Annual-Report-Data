@@ -1,55 +1,53 @@
-Signatory Progress Summary,,,
-First Signed Up To IATI,September 2008,,
-Frequency of Publication,Monthly,,
-First Published Activity Files,July 2013,,
-First Published Organisation File,July 2013,,
-,,,
-,,,
-Publication of Key Attributes,,,
-,,,
-Attribute,Period or % of activity,Implementation Schedule Commitment,IP vs Actual Comments (WR)
-,,,
-Timeliness of Transaction Data*,Annually,Monthly,
-,,,
-Frequency of Updates,,Monthly,
-,,,
-Activity Forward Planning*,25,Not present in IP (Calculated Field),
-,,,
-Transaction Alignment with recipient financial year*,Monthly,Not present in IP,
-,,,
-Budget Alignment with recipient financial year*,>370,Not present in IP,
-,,,
-Unique Identifer,100,Fully compliant Jul 13,
-,,,
-Use of Recipient Language*,0,Not Applicable,
-,,,
-Start Date,98.31,Fully compliant Jul 13,
-,,,
-End Date,98.79,Fully compliant Jul 13,
-,,,
-Implementing Organisation,100,Not publishing,
-,,,
-Geography,13.04,Partially compliant Jul 13,
-,,,
-CRS Sector,100,Fully compliant Jul 13,
-,,,
-Commitments*,100,Fully compliant Jul 13,
-,,,
-Disbursements & Expenditure*,93.72,Fully compliant Jul 13,
-,,,
-Traceable Income & Disbursements*,0,Not present in IP,
-,,,
-Activity Documents*,0.24,Fully compliant Jul 13,
-,,,
-Text of Conditions,0,Not publishing,
-,,,
-Results,0,Partially compliant Jul 13,
-,,,
-,,,
-Published Data Cross Checked Against Common Standard Implementation Schedule,,,
-Organisation File ,,IP states Partially compliant for 'Annual forward planning budget data for countries' but no instances found,
-Activity File,,IP states fully compliant for Other Activity identifiers but no instances found,
-,,IP states Partially compliant for 'Activity Contacts' but no instances found,
-,,IP states fully compliant for Default Tied Status identifiers but no instances found,
-,,Activity Documents - Fully compliant but no activity documents found in published files. ,
-,,Results partially compliant but No instances of results found in published files,
+Signatory Progress Summary,,
+First Signed Up To IATI,September 2008,
+Frequency of Publication,Monthly,
+First Published Activity Files,July 2013,
+First Published Organisation File,July 2013,
+,,
+,,
+Publication of Key Attributes,,
+,,
+Attribute,Period or % of activity,Implementation Schedule Commitment
+,,
+Timeliness of Transaction Data*,Annually,Monthly
+,,
+Frequency of Updates,,Monthly
+,,
+Transaction Alignment with recipient financial year*,Monthly,Not present in IP
+,,
+Budget Alignment with recipient financial year*,>370,Not present in IP
+,,
+Unique Identifer,100,Fully compliant Jul 13
+,,
+Use of Recipient Language*,0,Not Applicable
+,,
+Start Date,98.31,Fully compliant Jul 13
+,,
+End Date,98.79,Fully compliant Jul 13
+,,
+Implementing Organisation,100,Not publishing
+,,
+Geography,13.04,Partially compliant Jul 13
+,,
+CRS Sector,100,Fully compliant Jul 13
+,,
+Commitments*,100,Fully compliant Jul 13
+,,
+Disbursements & Expenditure*,93.72,Fully compliant Jul 13
+,,
+Traceable Income & Disbursements*,0,Not present in IP
+,,
+Activity Documents*,0.24,Fully compliant Jul 13
+,,
+Text of Conditions,0,Not publishing
+,,
+Results,0,Partially compliant Jul 13
+,,
+,,
+'Published Data Cross Checked Against Common Standard Implementation Schedule,,
+Organisation File,,IP states Partially compliant for 'Annual forward planning budget data for countries' but no instances found
+Activity File,,IP states fully compliant for Other Activity identifiers but no instances found
+,,IP states Partially compliant for 'Activity Contacts' but no instances found
+,,IP states fully compliant for Default Tied Status identifiers but no instances found
+,,Activity Documents - Fully compliant but no activity documents found in published files.
+,,Results partially compliant but No instances of results found in published files
