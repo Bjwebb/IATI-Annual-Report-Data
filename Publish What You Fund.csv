@@ -13,9 +13,9 @@ Timeliness of Transaction Data,Quarterly,One month In Arrears,
 ,,,
 Frequency of Updates,Quarterly,Monthly,
 ,,,
-Transaction Alignment with recipient financial year,Monthly,Not present in Implementation Schedule,
+Transaction Alignment with recipient financial year,Monthly,Not requested in Implementation Schedule,
 ,,,
-Budget Alignment with recipient financial year,Not Known,Not present in Implementation Schedule,
+Budget Alignment with recipient financial year,Not Known,Not requested in Implementation Schedule,
 ,,,
 Unique Identifer,100,Fully Compliant Oct 12,
 ,,,
@@ -35,7 +35,7 @@ Commitments,0,Unable To Publish,"We don't have commitments per se, because we do
 ,,,
 Disbursements & Expenditure,100,Fully Compliant Oct 12,We are publishing each line item of disbursements and expenditures.
 ,,,
-Traceable Income & Disbursements,0,Not present in Implementation Schedule,Future Publication
+Traceable Income & Disbursements,0,Not requested in Implementation Schedule,Future Publication
 ,,,
 Activity Documents,100,Fully Compliant Oct 12,
 ,,,

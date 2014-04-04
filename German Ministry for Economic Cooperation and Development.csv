@@ -13,9 +13,9 @@ Timeliness of Transaction Data,Can not calculate,3 months in arrears,
 ,,,
 Frequency of Updates,Six-Monthly,Every 6 months,"every 6 months the whole dataset will be overwritten, within 6 months minor updates that only refer to specific data fields or data set - date of change is reflected in date of each dataset"
 ,,,
-Transaction Alignment with recipient financial year,Annually,Not present in Implementation Schedule,Only alignment with calendar year / donor financial year
+Transaction Alignment with recipient financial year,Annually,Not requested in Implementation Schedule,Only alignment with calendar year / donor financial year
 ,,,
-Budget Alignment with recipient financial year,Not Known,Not present in Implementation Schedule,"not applicable, as budget is not provided, only total commitment"
+Budget Alignment with recipient financial year,Not Known,Not requested in Implementation Schedule,"not applicable, as budget is not provided, only total commitment"
 ,,,
 Unique Identifer,100,Fully compliant since March 2013,
 ,,,
@@ -35,7 +35,7 @@ Commitments,100,Fully compliant since March 2013,
 ,,,
 Disbursements & Expenditure,100,Fully compliant since March 2013,
 ,,,
-Traceable Income & Disbursements,0,Not present in Implementation Schedule,
+Traceable Income & Disbursements,0,Not requested in Implementation Schedule,
 ,,,
 Activity Documents,0,Future Publication,
 ,,,
