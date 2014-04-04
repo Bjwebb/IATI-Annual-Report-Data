@@ -11,7 +11,7 @@ Attribute,Period or % of activity,Implementation Schedule Commitment
 ,,
 Timeliness of Transaction Data,Monthly,Monthly
 ,,
-Frequency of Updates,,Monthly
+Frequency of Updates,Monthly,Monthly
 ,,
 Transaction Alignment with recipient financial year,Monthly,Not present in Implementation Schedule
 ,,

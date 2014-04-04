@@ -11,7 +11,7 @@ Attribute,Period or % of activity,Implementation Schedule Commitment,Comment
 ,,,
 Timeliness of Transaction Data,Can not calculate,3 months in arrears,
 ,,,
-Frequency of Updates,Every 6 months,Every 6 months,"every 6 months the whole dataset will be overwritten, within 6 months minor updates that only refer to specific data fields or data set - date of change is reflected in date of each dataset"
+Frequency of Updates,Six-Monthly,Every 6 months,"every 6 months the whole dataset will be overwritten, within 6 months minor updates that only refer to specific data fields or data set - date of change is reflected in date of each dataset"
 ,,,
 Transaction Alignment with recipient financial year,Annually,Not present in Implementation Schedule,Only alignment with calendar year / donor financial year
 ,,,
